@@ -1,0 +1,45 @@
+<resources>
+    <!-- Primary Colors -->
+    <color name="buttonColor">#FFBAE4</color> <!-- Light Pink (Button Color) -->
+    <color name="white">#FFFFFFFF</color> <!-- White -->
+    <color name="black">#FF000000</color> <!-- Black -->
+
+    <!-- Shades of Gray -->
+    <color name="gray_light">#FFDDDDDD</color> <!-- Light Gray -->
+    <color name="gray">#FF888888</color> <!-- Gray -->
+    <color name="gray_dark">#FF444444</color> <!-- Dark Gray -->
+
+    <!-- Primary Colors (Red, Green, Blue) -->
+    <color name="red">#FFFF0000</color> <!-- Red -->
+    <color name="green">#FF00FF00</color> <!-- Green -->
+    <color name="blue">#FF0000FF</color> <!-- Blue -->
+
+    <!-- Accent Colors -->
+    <color name="orange">#FFFFA500</color> <!-- Orange -->
+    <color name="yellow">#FFFFFF00</color> <!-- Yellow -->
+    <color name="purple">#FF800080</color> <!-- Purple -->
+    <color name="cyan">#FF00FFFF</color> <!-- Cyan -->
+    <color name="magenta">#FFFF00FF</color> <!-- Magenta -->
+
+    <!-- Neutral and Background Colors -->
+    <color name="backgroundColor">#FFF5F5F5</color> <!-- Light Background (Off-White) -->
+    <color name="primaryTextColor">#FF212121</color> <!-- Primary Text Color (Dark Gray) -->
+    <color name="secondaryTextColor">#FF757575</color> <!-- Secondary Text Color (Gray) -->
+
+    <!-- Material Design Colors -->
+    <color name="material_blue">#FF2196F3</color> <!-- Material Blue -->
+    <color name="material_red">#FFF44336</color> <!-- Material Red -->
+    <color name="material_green">#FF4CAF50</color> <!-- Material Green -->
+    <color name="material_yellow">#FFFFEB3B</color> <!-- Material Yellow -->
+    <color name="material_purple">#FF9C27B0</color> <!-- Material Purple -->
+
+    <!-- Button and Accent Colors -->
+    <color name="buttonAccent">#FF03DAC5</color> <!-- Teal Accent for Buttons -->
+    <color name="buttonDisabled">#FFB0BEC5</color> <!-- Disabled Button Color (Light Gray) -->
+
+    <!-- Additional Shades -->
+    <color name="shade_of_blue">#FF5C6BC0</color> <!-- Shade of Blue -->
+    <color name="shade_of_pink">#FFEC407A</color> <!-- Shade of Pink -->
+    <color name="shade_of_teal">#FF00796B</color> <!-- Shade of Teal -->
+
+</resources>
